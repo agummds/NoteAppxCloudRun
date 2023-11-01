@@ -36,7 +36,7 @@ gcloud builds submit --tag gcr.io/<project-id>/backend
 ```
 Ganti <project-id> dengan Project ID Anda. Project ID tertulis di sebelah shell prompt.
 
-##Container image kita sudah sukses tersimpan di Container Registry. Sekarang kita sudah bisa deploy Notes API ke Cloud Run. Silakan gunakan perintah ini
+## Container image kita sudah sukses tersimpan di Container Registry. Sekarang kita sudah bisa deploy Notes API ke Cloud Run. Silakan gunakan perintah ini
 ```cmd
 gcloud run deploy --image gcr.io/<project-id>/backend
 ```
