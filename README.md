@@ -5,6 +5,7 @@ Notes API merupakan backend (dari Notes App) yang akan kita deploy terlebih dahu
 
 ## Langkah pertama yang harus kita lakukan adalah clone source code Notes API dari GitHub repository milik Dicoding
 ## Klik Activate Cloud Shell yang berada di pojok kanan atas halaman
+ <a href="#"><img align="left" alt="GCP" title="GCP" width="40px" src="https://storage.googleapis.com/malesbanget/ss.png" /></a>  
 ## Pada shell prompt, jalankan perintah berikut ini untuk melakukan clone
 ```cmd 
 git clone -b notes-api https://github.com/dicodingacademy/a133-gcp-labs.git notes-api
